@@ -1,0 +1,14 @@
+Ankit Rai  
+Email: ankit@example.com  
+GitHub: github.com/ankitrai  
+Location: Remote
+
+Experience:
+- Full Stack Developer Intern at Nandi Foods – Built inventory & invoicing app using Next.js & Redux
+- Side Project: AI Chat App – Real-time chat powered by OpenAI, WebSockets, and MongoDB
+
+Skills:
+- JavaScript, TypeScript, React, Next.js, Redux
+- Java, Spring Boot, Kafka
+- REST APIs, WebSockets, RAG
+- Git, Docker, Vercel, Render

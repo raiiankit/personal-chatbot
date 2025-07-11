@@ -1,0 +1,13 @@
+Projects:
+
+1. ChatGPT-Powered Chat App
+A production-ready real-time chat app using React, Node.js, OpenAI, and MongoDB. Features include typing indicators, message history, file uploads, and bot auto-replies.
+
+2. StudyWise
+A study materials platform for college students. Built using Next.js with SSR/SSG, file uploads, categorized semesters, and admin panel.
+
+3. Camper Van 3D Configurator
+Built with React Three Fiber and Tailwind. Lets users customize vans in 3D with real-time feedback.
+
+4. Personal AI Assistant (You’re using it right now)
+A RAG-based chatbot that understands my personal data and answers questions contextually.
